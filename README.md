@@ -64,3 +64,19 @@ Stopped Vehicle Detection: Counts vehicles that remain stationary within a defin
 ## sort.py
 Simple Online and Realtime Tracking
 This is a popular method for tracking multiple objects in video sequences.
+
+
+## Requirments
+
+-pyhton
+-OpenCV
+-ultralytics (YOLOv8)
+-sort (for tracking)
+
+## Installation
+To install the required packages, you can use pip:
+```
+pip install opencv-python numpy cvzone ultralytics
+``
+
+Make sure to clone the SORT repository or install it if it's available via pip.
