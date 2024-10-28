@@ -57,7 +57,7 @@ In dcc.py, We refine the data to only show the vehicals.
 This project implements a real-time vehicle detection and tracking system using the YOLOv8 model. The system is designed to identify specific vehicle classes in video footage and count the number of stopped vehicles within a defined Region of Interest (ROI).
 
 
-### Features
+## Features
 Real-Time vehical detection: Utilizes the YOLOv8 model to detect vehicles such as cars, motorbikes, buses, and trucks.
 Stopped Vehicle Detection: Counts vehicles that remain stationary within a defined ROI.
 
@@ -67,10 +67,12 @@ This is a popular method for tracking multiple objects in video sequences.
 
 
 ## Requirments
--pyhton
--OpenCV
--ultralytics (YOLOv8)
--sort (for tracking)
+You will need the following to run the above:
+- pyhton
+- OpenCV
+- cvzone
+- ultralytics (YOLOv8)
+- sort (for tracking)
 
 ## Installation
 To install the required packages, you can use pip:
