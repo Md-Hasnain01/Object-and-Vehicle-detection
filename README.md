@@ -67,7 +67,6 @@ This is a popular method for tracking multiple objects in video sequences.
 
 
 ## Requirments
-
 -pyhton
 -OpenCV
 -ultralytics (YOLOv8)
