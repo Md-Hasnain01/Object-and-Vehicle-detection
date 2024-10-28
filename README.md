@@ -46,3 +46,21 @@ In dcc.py, We refine the data to only show the vehicals.
 
 
 ![Screenshot 2024-10-28 225029](https://github.com/user-attachments/assets/30784e97-ef94-400c-936f-78857c59d4bc)
+
+
+
+
+
+
+## ffdcc.py
+
+This project implements a real-time vehicle detection and tracking system using the YOLOv8 model. The system is designed to identify specific vehicle classes in video footage and count the number of stopped vehicles within a defined Region of Interest (ROI).
+
+
+### Features
+Real-Time vehical detection: Utilizes the YOLOv8 model to detect vehicles such as cars, motorbikes, buses, and trucks.
+Stopped Vehicle Detection: Counts vehicles that remain stationary within a defined ROI.
+
+## sort.py
+Simple Online and Realtime Tracking
+This is a popular method for tracking multiple objects in video sequences.
