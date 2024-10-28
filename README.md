@@ -77,5 +77,6 @@ This is a popular method for tracking multiple objects in video sequences.
 To install the required packages, you can use pip:
 ```
 pip install opencv-python numpy cvzone ultralytics
+```
 
 Make sure to clone the SORT repository or install it if it's available via pip.
