@@ -23,3 +23,7 @@ In yolocam.py taking data from ultralytics and through the model , we are able t
 
 
 ![Screenshot 2024-10-28 195603](https://github.com/user-attachments/assets/eafd51c7-e83c-4099-bfa3-7e6197dfee29)
+
+
+## This is also more effenciently work in crowdy area
+
