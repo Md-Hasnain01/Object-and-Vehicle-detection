@@ -32,3 +32,12 @@ In yolocam.py taking data from ultralytics and through the model , we are able t
 
 
 ![Screenshot 2024-10-28 200002](https://github.com/user-attachments/assets/47d01979-9c62-4ca3-8e9d-65577dae8c27)
+
+
+
+
+## dcc.py
+
+In dcc.py, We refine the data to only show the vehicals.
+
+
