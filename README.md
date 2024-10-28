@@ -27,3 +27,4 @@ In yolocam.py taking data from ultralytics and through the model , we are able t
 
 ## This is also more effenciently work in crowdy area
 
+![360_F_458083018_GWf89ndA62i30YOJBD7rjUd30uXylPO5](https://github.com/user-attachments/assets/70ff0757-0deb-4a73-9bb5-6bef690aae7f)
