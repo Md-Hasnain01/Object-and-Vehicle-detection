@@ -42,3 +42,7 @@ In dcc.py, We refine the data to only show the vehicals.
 
 
 ![Screenshot 2024-10-28 195840](https://github.com/user-attachments/assets/c15b2714-ad38-4104-9d8a-e4a0ae7d2a1e)
+
+
+
+![Screenshot 2024-10-28 225029](https://github.com/user-attachments/assets/30784e97-ef94-400c-936f-78857c59d4bc)
